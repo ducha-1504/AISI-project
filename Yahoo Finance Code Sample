@@ -1,0 +1,40 @@
+# Mount G-drive to save your output
+# It will promp you to give permission to Google to access your file
+
+from google.colab import drive
+drive.mount('/content/drive')
+
+#Pandas is a Python library used for working with data sets.
+
+import pandas as pd
+import numpy as np
+
+# Import stock weekly trading data from Yahoo.Finance, and use Close to calculate returns
+
+import yfinance as yf
+
+# List of 10 stock tickers
+tickers = ['AAPL','TSLA']
+
+# Specify the date range
+start_date = '2024-01-01'
+end_date = '2024-03-30'
+
+# Initialize an empty list to store the data
+data = []
+df = []
+
+# Loop through the tickers and download the weekly adjusted price data
+for ticker in tickers:
+    stock = yf.Ticker(ticker)
+    df = stock.history(start=start_date, end=end_date, interval="1wk") # Weekly data
+    df['Date'] = df.index # Keep date information, which is in date-time format
+    df['Date'] = pd.to_datetime(df['Date']).dt.date # Convert date-time to date
+    df['Symbol'] = ticker
+    data.append(df)
+
+# Concatenate the data into a single DataFrame
+df = pd.concat(data, ignore_index=True)
+
+# Display the resulting DataFrame
+df.head(10)
