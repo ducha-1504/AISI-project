@@ -1,0 +1,460 @@
+Date,Ticker,Company Name,Sector,Weight,Price,Price Sell
+4/28/2025,JPM,JPMorgan Chase & Co.,Financials,4.00%,$242.05,$243.45
+4/28/2025,BAC,Bank of America Corp,Financials,4.00%,$39.55,$39.75
+4/28/2025,BRK.B,Berkshire Hathaway Inc.,Financials,4.00%,$530.94,$534.57
+4/28/2025,XOM,Exxon Mobil Corp,Energy,4.00%,$107.64,$107.37
+4/28/2025,CVX,Chevron Corp,Energy,4.00%,$138.41,$137.62
+4/28/2025,OXY,Occidental Petroleum Corp,Energy,4.00%,$40.28,$40.13
+4/28/2025,PFE,Pfizer Inc.,Health Care,4.00%,$22.23,$22.95
+4/28/2025,MRK,Merck & Co. Inc.,Health Care,4.00%,$82.36,$83.87
+4/28/2025,BMY,Bristol-Myers Squibb Co.,Health Care,4.00%,$47.83,$48.58
+4/28/2025,PG,Procter & Gamble Co.,Consumer Staples,4.00%,$160.75,$161.16
+4/28/2025,KO,Coca-Cola Co.,Consumer Staples,4.00%,$71.28,$71.84
+4/28/2025,KMB,Kimberly-Clark Corp,Consumer Staples,4.00%,$129.68,$129.33
+4/28/2025,DUK,Duke Energy Corp,Utilities,4.00%,$119.58,$120.60
+4/28/2025,D,Dominion Energy Inc,Utilities,4.00%,$53.10,$53.66
+4/28/2025,MMM,3M Co.,Industrials,4.00%,$137.26,$137.70
+4/28/2025,CAT,Caterpillar Inc.,Industrials,4.00%,$305.94,$306.28
+4/28/2025,GE,General Electric Co.,Industrials,4.00%,$200.57,$202.21
+4/28/2025,DD,DuPont de Nemours Inc.,Materials,4.00%,$65.28,$65.46
+4/28/2025,NUE,Nucor Corp,Materials,4.00%,$116.08,$118.27
+4/28/2025,INTC,Intel Corp,Information Technology,4.00%,$20.51,$20.34
+4/28/2025,CSCO,Cisco Systems Inc.,Information Technology,4.00%,$56.50,$57.00
+4/28/2025,VZ,Verizon Communications Inc.,Communication Services,4.00%,$41.71,$42.27
+4/28/2025,T,AT&T Inc.,Communication Services,4.00%,$26.99,$27.03
+4/28/2025,TGT,Target Corp,Consumer Discretionary,4.00%,$95.28,$95.81
+4/28/2025,HD,Home Depot Inc.,Consumer Discretionary,4.00%,$354.72,$356.78
+4/30/2025,BRK.B,Berkshire Hathaway Inc.,Financials,4.00%,$533.25 ,$530.23
+4/30/2025,JPM,JPMorgan Chase & Co.,Financials,4.00%,$243.45 ,$245.71
+4/30/2025,XOM,Exxon Mobil Corp.,Energy,4.00%,$104.67 ,$104.81
+4/30/2025,CVX,Chevron Corp.,Energy,4.00%,$134.42 ,$134.62
+4/30/2025,BAC,Bank of America Corp.,Financials,4.00%,$39.65 ,$39.93
+4/30/2025,PFE,Pfizer Inc.,Healthcare,4.00%,$23.55 ,$23.08
+4/30/2025,INTC,Intel Corp.,Information Technology,4.00%,$20.10 ,$19.98
+4/30/2025,C,Citigroup Inc.,Financials,4.00%,$67.39 ,$67.16
+4/30/2025,DUK,Duke Energy Corp.,Utilities,4.00%,$120.92 ,$120.24
+4/30/2025,DOW,Dow Inc.,Materials,4.00%,$29.85 ,$29.79
+4/30/2025,GM,General Motors Co.,Consumer Discretionary,4.00%,$45.10 ,$44.90
+4/30/2025,KHC,Kraft Heinz Co.,Consumer Staples,4.00%,$28.67 ,$28.08
+4/30/2025,GLW,Corning Inc.,Information Technology,4.00%,$44.13 ,$44.53
+4/30/2025,VLO,Valero Energy Corp.,Energy,4.00%,$114.18 ,$113.00
+4/30/2025,SO,The Southern Co.,Utilities,4.00%,$91.12 ,$90.70
+4/30/2025,HPQ,HP Inc.,Information Technology,4.00%,$25.28 ,$25.10
+4/30/2025,FDX,FedEx Corp.,Industrials,4.00%,$208.98 ,$208.71
+4/30/2025,TAP,Molson Coors Beverage Co.,Consumer Staples,4.00%,$57.01 ,$56.73
+4/30/2025,IP,International Paper Co.,Materials,4.00%,$45.24 ,$43.47
+4/30/2025,BBY,Best Buy Co. Inc.,Consumer Discretionary,4.00%,$65.77 ,$63.12
+4/30/2025,CAH,Cardinal Health Inc.,Healthcare,4.00%,$140.86 ,$145.09
+4/30/2025,GAP,Gap Inc.,Consumer Discretionary,4.00%,$20.63 ,$21.87
+4/30/2025,T,AT&T Inc.,Communication Services,4.00%,$27.43 ,$27.37
+4/30/2025,DAL,Delta Air Lines Inc.,Industrials,4.00%,$41.36 ,$41.23
+4/30/2025,KR,Kroger Co.,Consumer Staples,4.00%,$71.86 ,$71.83
+5/5/2025,JPM,JPMorgan Chase & Co.,Financials,4.00%,$251.35 ,$248.05
+5/5/2025,BRK.B,Berkshire Hathaway Inc.,Financials,4.00%,$512.15 ,$512.33
+5/5/2025,XOM,Exxon Mobil Corporation,Energy,4.00%,$102.33 ,$103.75
+5/5/2025,CVX,Chevron Corporation,Energy,4.00%,$133.87 ,$133.97
+5/5/2025,DUK,Duke Energy Corp,Utilities,4.00%,$119.66 ,$121.83
+5/5/2025,SO,The Southern Company,Utilities,4.00%,$90.29 ,$1.96
+5/5/2025,PG,Procter & Gamble Co.,Consumer Staples,4.00%,$157.75 ,$158.17
+5/5/2025,KO,Coca-Cola Co.,Consumer Staples,4.00%,$71.19 ,$71.21
+5/5/2025,JNJ,Johnson & Johnson,Healthcare,4.00%,$153.68 ,$153.16
+5/5/2025,PFE,Pfizer Inc.,Healthcare,4.00%,$23.02 ,$22.07
+5/5/2025,VZ,Verizon Communications Inc.,Communication Services,4.00%,$42.85 ,$43.45
+5/5/2025,T,AT&T Inc.,Communication Services,4.00%,$27.24 ,$27.88
+5/5/2025,INTC,Intel Corporation,Technology,4.00%,$20.27 ,$19.94
+5/5/2025,IBM,International Business Machines Corp,Technology,4.00%,$247.53 ,$247.47
+5/5/2025,MMM,3M Company,Industrials,4.00%,$140.11 ,$137.35
+5/5/2025,GM,General Motors Co.,Consumer Discretionary,4.00%,$45.24 ,$45.31
+5/5/2025,BBY,Best Buy Co. Inc.,Consumer Discretionary,4.00%,$66.73 ,$65.77
+5/5/2025,WBA,Walgreens Boots Alliance Inc.,Consumer Staples,4.00%,$11.00 ,$10.99
+5/5/2025,KHC,Kraft Heinz Co.,Consumer Staples,4.00%,$28.17 ,$27.98
+5/5/2025,C,Citigroup Inc.,Financials,4.00%,$29.78 ,$69.02
+5/5/2025,BAC,Bank of America Corp,Financials,4.00%,$40.88 ,$40.60
+5/5/2025,VLO,Valero Energy Corp,Energy,4.00%,$117.38 ,$115.08
+5/5/2025,CAT,Caterpillar Inc.,Industrials,4.00%,$321.93 ,$319.72
+5/5/2025,DOW,Dow Inc.,Materials,4.00%,$28.25 ,$28.10
+5/5/2025,ABBV,AbbVie Inc.,Healthcare,4.00%,$194.39 ,$185.55
+5/7/2025,BRK.B,Berkshire Hathaway Inc.,Financials,4.00%,$518.22 ,$513.25 
+5/7/2025,JNJ,Johnson & Johnson,Healthcare,4.00%,$155.96 ,$154.34 
+5/7/2025,XOM,Exxon Mobil Corporation,Energy,4.00%,$103.65 ,$105.10 
+5/7/2025,CVX,Chevron Corporation,Energy,4.00%,$134.15 ,$135.39 
+5/7/2025,T,AT&T Inc.,Communication Services,4.00%,$27.82 ,$27.19 
+5/7/2025,VZ,Verizon Communications Inc.,Communication Services,4.00%,$43.19 ,$42.91 
+5/7/2025,MRK,Merck & Co. Inc.,Healthcare,4.00%,$78.33 ,$76.88 
+5/7/2025,C,Citigroup Inc.,Financials,4.00%,$69.79 ,$71.17 
+5/7/2025,BAC,Bank of America Corporation,Financials,4.00%,$40.69 ,$41.35 
+5/7/2025,WFC,Wells Fargo & Company,Financials,4.00%,$72.78 ,$72.90 
+5/7/2025,KO,The Coca-Cola Company,Consumer Staples,4.00%,$71.16 ,$70.66 
+5/7/2025,PG,Procter & Gamble Company,Consumer Staples,4.00%,$157.46 ,$157.57 
+5/7/2025,WMT,Walmart Inc.,Consumer Staples,4.00%,$98.07 ,$97.19 
+5/7/2025,INTC,Intel Corporation,Technology,4.00%,$19.82 ,$21.00 
+5/7/2025,IBM,International Business Machines Corp.,Technology,4.00%,$251.69 ,$252.46 
+5/7/2025,MMM,3M Company,Industrials,4.00%,$137.96 ,$140.43 
+5/7/2025,DOW,Dow Inc.,Materials,4.00%,$27.75 ,$28.52 
+5/7/2025,VLO,Valero Energy Corporation,Energy,4.00%,$115.02 ,$119.72 
+5/7/2025,DUK,Duke Energy Corporation,Utilities,4.00%,$121.49 ,$118.91 
+5/7/2025,SO,The Southern Company,Utilities,4.00%,$91.34 ,$89.44 
+5/7/2025,KHC,The Kraft Heinz Company,Consumer Staples,4.00%,$27.81 ,$28.06 
+5/7/2025,GM,General Motors Company,Consumer Discretionary,4.00%,$45.32 ,$47.19 
+5/7/2025,HPQ,HP Inc.,Technology,4.00%,$25.55 ,$26.03 
+5/7/2025,MET,MetLife Inc.,Financials,4.00%,$76.15 ,$77.00 
+5/7/2025,CLX,The Clorox Company,Consumer Staples,4.00%,$136.47 ,$137.81 
+5/9/2025,JPM,JPMorgan Chase & Co.,Financials,5.95%,$251.87 ,$258.80 
+5/9/2025,WFC,Wells Fargo & Co.,Financials,4.76%,$72.45 ,$74.87 
+5/9/2025,C,Citigroup Inc.,Financials,4.76%,$70.98 ,$74.42 
+5/9/2025,BAC,Bank of America Corp.,Financials,4.17%,$41.55 ,$43.10 
+5/9/2025,BRK.B,Berkshire Hathaway Inc.,Financials,5.95%,$513.74 ,$514.30 
+5/9/2025,XOM,Exxon Mobil Corp.,Energy,5.95%,$106.33 ,$108.16 
+5/9/2025,CVX,Chevron Corp.,Energy,5.36%,$136.82 ,$139.92 
+5/9/2025,COP,ConocoPhillips,Energy,4.17%,$87.84 ,$91.49 
+5/9/2025,DUK,Duke Energy Corp.,Utilities,3.57%,$119.25 ,$114.80 
+5/9/2025,SO,The Southern Co.,Utilities,3.57%,$89.60 ,$87.05 
+5/9/2025,D,Dominion Energy Inc.,Utilities,2.98%,$54.43 ,$54.19 
+5/9/2025,PG,Procter & Gamble Co.,Consumer Staples,5.36%,$156.59 ,$159.81 
+5/9/2025,KO,Coca-Cola Co.,Consumer Staples,4.17%,$70.02 ,$69.05 
+5/9/2025,MO,Altria Group Inc.,Consumer Staples,2.98%,$58.42 ,$55.98 
+5/9/2025,KMB,Kimberly-Clark Corp.,Consumer Staples,2.38%,$131.81 ,$135.40 
+5/9/2025,PFE,Pfizer Inc.,Healthcare,3.57%,$21.90 ,$22.70 
+5/9/2025,MRK,Merck & Co. Inc.,Healthcare,3.57%,$75.22 ,$79.63 
+5/9/2025,MMM,3M Co.,Industrials,2.98%,$141.90 ,$149.60 
+5/9/2025,CAT,Caterpillar Inc.,Industrials,3.57%,$324.43 ,$341.30 
+5/9/2025,GE,General Electric Co.,Industrials,2.98%,$214.65 ,$218.63 
+5/9/2025,INTC,Intel Corp.,Information Technology,4.17%,$21.42 ,$22.18 
+5/9/2025,CSCO,Cisco Systems Inc.,Information Technology,3.57%,$59.41 ,$61.30 
+5/9/2025,TGT,Target Corp.,Consumer Discretionary,3.57%,$95.31 ,$99.94 
+5/9/2025,BBY,Best Buy Co. Inc.,Consumer Discretionary,2.38%,$67.91 ,$72.37 
+5/9/2025,NUE,Nucor Corp.,Materials,3.57%,$114.74 ,$119.62 
+5/15/2025,JPM,JPMorgan Chase & Co.,Financials,4.00%,$266.20 ,$266.28
+5/15/2025,BAC,Bank of America Corp,Financials,4.00%,$44.12 ,$44.43
+5/15/2025,C,Citigroup Inc,Financials,4.00%,$75.46 ,$75.22
+5/15/2025,WFC,Wells Fargo & Co,Financials,4.00%,$75.59 ,$76.18
+5/15/2025,XOM,Exxon Mobil Corp,Energy,4.00%,$108.58 ,$108.19
+5/15/2025,CVX,Chevron Corp,Energy,4.00%,$140.55 ,$140.39
+5/15/2025,COP,ConocoPhillips,Energy,4.00%,$92.18 ,$91.65
+5/15/2025,VLO,Valero Energy Corp,Energy,4.00%,$133.14 ,$133.50
+5/15/2025,DUK,Duke Energy Corp,Utilities,4.00%,$114.90 ,$116.26
+5/15/2025,SO,Southern Co,Utilities,4.00%,$82.65 ,$87.97
+5/15/2025,D,Dominion Energy Inc,Utilities,4.00%,$54.38 ,$55.10
+5/15/2025,PG,Procter & Gamble Co,Consumer Staples,4.00%,$161.31 ,$162.17
+5/15/2025,KO,Coca-Cola Co,Consumer Staples,4.00%,$71.10 ,$71.49
+5/15/2025,PEP,PepsiCo Inc,Consumer Staples,4.00%,$130.07 ,$130.55
+5/15/2025,WMT,Walmart Inc,Consumer Staples,4.00%,$96.35 ,$98.24
+5/15/2025,CL,Colgate-Palmolive Co,Consumer Staples,4.00%,$89.10 ,$90.69
+5/15/2025,PFE,Pfizer Inc,Health Care,4.00%,$22.22 ,$22.44
+5/15/2025,MRK,Merck & Co Inc,Health Care,4.00%,$74.06 ,$75.30
+5/15/2025,JNJ,Johnson & Johnson,Health Care,4.00%,$148.34 ,$140.04
+5/15/2025,MMM,3M Co,Industrials,4.00%,$148.01 ,$152.36
+5/15/2025,CAT,Caterpillar Inc,Industrials,4.00%,$348.53 ,$352.29
+5/15/2025,DOW,Dow Inc,Materials,4.00%,$29.17 ,$29.46
+5/15/2025,INTC,Intel Corp,Information Technology,4.00%,$21.55 ,$21.66
+5/15/2025,CSCO,Cisco Systems Inc,Information Technology,4.00%,$63.88 ,$63.24
+5/15/2025,VZ,Verizon Communications Inc,Communication Services,4.00%,$42.79 ,$43.29
+5/22/2025,BRK.B,Berkshire Hathaway Inc.,Financials,5.00%,$507.03 ,$503.46
+5/22/2025,JNJ,Johnson & Johnson,Healthcare,5.00%,$151.31 ,$151.64
+5/22/2025,XOM,Exxon Mobil Corporation,Energy,5.00%,$102.97 ,$103.03
+5/22/2025,CVX,Chevron Corporation,Energy,5.00%,$135.29 ,$136.54
+5/22/2025,T,AT&T Inc.,Communication Services,4.00%,$26.96 ,$27.15
+5/22/2025,VZ,Verizon Communications Inc.,Communication Services,4.00%,$42.44 ,$42.63
+5/22/2025,KO,The Coca-Cola Company,Consumer Staples,5.00%,$70.64 ,$71.26
+5/22/2025,PG,Procter & Gamble Co.,Consumer Staples,5.00%,$163.91 ,$164.73
+5/22/2025,WMT,Walmart Inc.,Consumer Staples,5.00%,$95.93 ,$96.34
+5/22/2025,MMM,3M Company,Industrials,4.00%,$149.05 ,$147.62
+5/22/2025,CSCO,Cisco Systems Inc.,Information Technology,4.00%,$62.98 ,$62.73
+5/22/2025,INTC,Intel Corporation,Information Technology,4.00%,$20.55 ,$20.05
+5/22/2025,DOW,Dow Inc.,Materials,4.00%,$27.97 ,$27.63
+5/22/2025,VLO,Valero Energy Corporation,Energy,4.00%,$127.78 ,$127.51
+5/22/2025,BAC,Bank of America Corp.,Financials,4.00%,$43.06 ,$42.95
+5/22/2025,WFC,Wells Fargo & Co.,Financials,4.00%,$73.39 ,$72.83
+5/22/2025,C,Citigroup Inc.,Financials,4.00%,$72.94 ,$72.61
+5/22/2025,MO,Altria Group Inc.,Consumer Staples,4.00%,$58.29 ,$58.72
+5/22/2025,KHC,The Kraft Heinz Company,Consumer Staples,3.00%,$26.11 ,$25.91
+5/22/2025,SO,The Southern Company,Utilities,3.00%,$88.84 ,$89.64
+5/22/2025,DUK,Duke Energy Corporation,Utilities,3.00%,$115.57 ,$116.49
+5/22/2025,O,Realty Income Corp.,Real Estate,3.00%,$54.40 ,$54.74
+5/22/2025,PFE,Pfizer Inc.,Healthcare,3.00%,$22.65 ,$22.92
+5/22/2025,ABBV,AbbVie Inc.,Healthcare,3.00%,$180.98 ,$181.69
+5/22/2025,PRU,Prudential Financial Inc.,Financials,3.00%,$102.32 ,$101.92
+5/29/2025,BRK.B,Berkshire Hathaway Inc.,Financials,5.00%,$506.18 ,$503.96 
+5/29/2025,JPM,JPMorgan Chase & Co.,Financials,5.00%,$263.10 ,$262.73 
+5/29/2025,XOM,Exxon Mobil Corporation,Energy,5.00%,$102.69 ,$102.30 
+5/29/2025,JNJ,Johnson & Johnson,Healthcare,5.00%,$153.58 ,$155.21 
+5/29/2025,PG,Procter & Gamble Company,Consumer Staples,5.00%,$167.41 ,$168.73 
+5/29/2025,CVX,Chevron Corporation,Energy,4.00%,$137.91 ,$136.69 
+5/29/2025,WFC,Wells Fargo & Company,Financials,4.00%,$74.51 ,$74.77 
+5/29/2025,BAC,Bank of America Corporation,Financials,4.00%,$43.98 ,$43.87 
+5/29/2025,COP,ConocoPhillips,Energy,4.00%,$85.59 ,$85.34 
+5/29/2025,DUK,Duke Energy Corporation,Utilities,4.00%,$115.45 ,$117.72 
+5/29/2025,NEE,NextEra Energy Inc.,Utilities,4.00%,$68.43 ,$70.07 
+5/29/2025,KO,Coca-Cola Company,Consumer Staples,4.00%,$70.98 ,$71.59 
+5/29/2025,WMT,Walmart Inc.,Consumer Staples,4.00%,$97.09 ,$98.72 
+5/29/2025,MRK,Merck & Co. Inc.,Healthcare,4.00%,$75.64 ,$76.07 
+5/29/2025,ABBV,AbbVie Inc.,Healthcare,4.00%,$184.03 ,$184.51 
+5/29/2025,MMM,3M Company,Industrials,4.00%,$149.63 ,$148.35 
+5/29/2025,CAT,Caterpillar Inc.,Industrials,4.00%,$350.50 ,$346.75 
+5/29/2025,PFE,Pfizer Inc.,Healthcare,4.00%,$23.05 ,$23.09 
+5/29/2025,INTC,Intel Corporation,Information Technology,4.00%,$20.25 ,$19.54 
+5/29/2025,VZ,Verizon Communications Inc.,Communication Services,4.00%,$42.64 ,$43.26 
+5/29/2025,C,Citigroup Inc.,Financials,3.00%,$75.03 ,$74.82 
+5/29/2025,DOW,Dow Inc.,Materials,3.00%,$28.09 ,$27.74 
+5/29/2025,IP,International Paper Co.,Materials,3.00%,$47.95 ,$47.81 
+5/29/2025,PEP,PepsiCo Inc.,Consumer Staples,3.00%,$130.48 ,$130.02 
+5/29/2025,MO,Altria Group Inc.,Consumer Staples,3.00%,$58.46 ,$59.57 
+5/31/2025,JPM,JPMorgan Chase & Co.,Financials,4.00%,$261.75 ,$264.99 
+5/31/2025,BAC,Bank of America Corp.,Financials,4.00%,$43.62 ,$44.38 
+5/31/2025,WFC,Wells Fargo & Co.,Financials,4.00%,$74.26 ,$75.65 
+5/31/2025,C,Citigroup Inc.,Financials,4.00%,$74.66 ,$75.65 
+5/31/2025,XOM,Exxon Mobil Corp.,Energy,4.00%,$103.75 ,$76.02 
+5/31/2025,CVX,Chevron Corp.,Energy,4.00%,$138.49 ,$103.80 
+5/31/2025,COP,ConocoPhillips,Energy,4.00%,$87.05 ,$139.55 
+5/31/2025,DUK,Duke Energy Corp.,Utilities,4.00%,$117.01 ,$87.91 
+5/31/2025,D,Dominion Energy Inc.,Utilities,4.00%,$56.36 ,$56.68 
+5/31/2025,SO,The Southern Co.,Utilities,4.00%,$89.30 ,$89.58 
+5/31/2025,KO,Coca-Cola Co.,Consumer Staples,4.00%,$71.52 ,$70.65 
+5/31/2025,PG,Procter & Gamble Co.,Consumer Staples,4.00%,$167.87 ,$165.71 
+5/31/2025,KHC,Kraft Heinz Co.,Consumer Staples,4.00%,$26.65 ,$26.79 
+5/31/2025,WMT,Walmart Inc.,Consumer Staples,4.00%,$98.83 ,$99.98 
+5/31/2025,MMM,3M Co.,Industrials,4.00%,$147.86 ,$148.13 
+5/31/2025,CAT,Caterpillar Inc.,Industrials,4.00%,$345.20 ,$348.12 
+5/31/2025,GE,General Electric Co.,Industrials,4.00%,$245.59 ,$248.50 
+5/31/2025,PFE,Pfizer Inc.,Healthcare,4.00%,$23.14 ,$22.95 
+5/31/2025,MRK,Merck & Co. Inc.,Healthcare,4.00%,$76.25 ,$76.37 
+5/31/2025,ABBV,AbbVie Inc.,Healthcare,4.00%,$184.13 ,$185.64 
+5/31/2025,CSCO,Cisco Systems Inc.,Information Technology,4.00%,$62.35 ,$63.97 
+5/31/2025,INTC,Intel Corp.,Information Technology,4.00%,$19.48 ,$20.29 
+5/31/2025,IBM,International Business Machines Corp.,Information Technology,4.00%,$257.85 ,$265.20 
+5/31/2025,SPG,Simon Property Group Inc.,Real Estate,4.00%,$160.02 ,$159.68 
+5/31/2025,DOW,Dow Inc.,Materials,4.00%,$27.66 ,$27.79 
+6/4/2025,BRK.B,Berkshire Hathaway Inc.,Financials,4.00%,$350.00 ,$420.00 
+6/4/2025,JPM,JPMorgan Chase & Co.,Financials,4.00%,$150.00 ,$180.00 
+6/4/2025,XOM,Exxon Mobil Corporation,Energy,4.00%,$105.00 ,$130.00 
+6/4/2025,CVX,Chevron Corporation,Energy,4.00%,$155.00 ,$190.00 
+6/4/2025,PFE,Pfizer Inc.,Healthcare,4.00%,$28.00 ,$35.00 
+6/4/2025,VZ,Verizon Communications Inc.,Communication Services,4.00%,$42.00 ,$52.00 
+6/4/2025,INTC,Intel Corporation,Information Technology,4.00%,$32.00 ,$40.00 
+6/4/2025,MMM,3M Company,Industrials,4.00%,$85.00 ,$105.00 
+6/4/2025,CAT,Caterpillar Inc.,Industrials,4.00%,$225.00 ,$275.00 
+6/4/2025,DOW,Dow Inc.,Materials,4.00%,$52.00 ,$65.00 
+6/4/2025,BBY,Best Buy Co. Inc.,Consumer Discretionary,4.00%,$80.00 ,$100.00 
+6/4/2025,TGT,Target Corporation,Consumer Staples,4.00%,$130.00 ,$160.00 
+6/4/2025,IBM,International Business Machines Corp.,Information Technology,4.00%,$140.00 ,$170.00 
+6/4/2025,WBA,Walgreens Boots Alliance Inc.,Consumer Staples,4.00%,$22.00 ,$28.00 
+6/4/2025,CPB,Campbell Soup Company,Consumer Staples,4.00%,$45.00 ,$55.00 
+6/4/2025,DUK,Duke Energy Corporation,Utilities,4.00%,$95.00 ,$115.00 
+6/4/2025,NEE,NextEra Energy Inc.,Utilities,4.00%,$75.00 ,$90.00 
+6/4/2025,KO,Coca-Cola Company,Consumer Staples,4.00%,$58.00 ,$70.00 
+6/4/2025,PG,Procter & Gamble Company,Consumer Staples,4.00%,$160.00 ,$195.00 
+6/4/2025,T,AT&T Inc.,Communication Services,4.00%,$18.00 ,$22.00 
+6/4/2025,PRU,Prudential Financial Inc.,Financials,4.00%,$105.00 ,$130.00 
+6/4/2025,MET,MetLife Inc.,Financials,4.00%,$65.00 ,$80.00 
+6/4/2025,VLO,Valero Energy Corporation,Energy,4.00%,$125.00 ,$150.00 
+6/4/2025,BMY,Bristol-Myers Squibb Company,Healthcare,4.00%,$45.00 ,$55.00 
+6/4/2025,ABBV,AbbVie Inc.,Healthcare,4.00%,$160.00 ,$195.00 
+6/10/2025,BRK.B,Berkshire Hathaway Inc.,Financials,4.00%,$345.00 ,$414.00 
+6/10/2025,JPM,JPMorgan Chase & Co.,Financials,4.00%,$155.00 ,$186.00 
+6/10/2025,BAC,Bank of America Corp,Financials,4.00%,$32.50 ,$39.00 
+6/10/2025,WFC,Wells Fargo & Co.,Financials,4.00%,$48.00 ,$57.60 
+6/10/2025,C,Citigroup Inc.,Financials,4.00%,$58.00 ,$69.60 
+6/10/2025,XOM,Exxon Mobil Corp,Energy,4.00%,$90.00 ,$108.00 
+6/10/2025,CVX,Chevron Corp,Energy,4.00%,$150.00 ,$180.00 
+6/10/2025,COP,ConocoPhillips,Energy,4.00%,$110.00 ,$132.00 
+6/10/2025,VLO,Valero Energy Corp,Energy,4.00%,$125.00 ,$150.00 
+6/10/2025,PFE,Pfizer Inc.,Healthcare,4.00%,$28.00 ,$33.60 
+6/10/2025,MRK,Merck & Co. Inc.,Healthcare,4.00%,$105.00 ,$126.00 
+6/10/2025,BMY,Bristol-Myers Squibb Co.,Healthcare,4.00%,$45.00 ,$54.00 
+6/10/2025,PG,Procter & Gamble Co.,Consumer Staples,4.00%,$140.00 ,$168.00 
+6/10/2025,KO,Coca-Cola Co.,Consumer Staples,4.00%,$60.00 ,$72.00 
+6/10/2025,WBA,Walgreens Boots Alliance,Consumer Staples,4.00%,$22.00 ,$26.40 
+6/10/2025,MMM,3M Co.,Industrials,4.00%,$95.00 ,$114.00 
+6/10/2025,CAT,Caterpillar Inc.,Industrials,4.00%,$225.00 ,$270.00 
+6/10/2025,GE,General Electric Co.,Industrials,4.00%,$105.00 ,$126.00 
+6/10/2025,DUK,Duke Energy Corp,Utilities,4.00%,$95.00 ,$114.00 
+6/10/2025,D,Dominion Energy Inc.,Utilities,4.00%,$50.00 ,$60.00 
+6/10/2025,SO,Southern Co.,Utilities,4.00%,$70.00 ,$84.00 
+6/10/2025,DOW,Dow Inc.,Materials,4.00%,$50.00 ,$60.00 
+6/10/2025,IP,International Paper Co.,Materials,4.00%,$38.00 ,$45.60 
+6/10/2025,INTC,Intel Corp,Technology,4.00%,$30.00 ,$36.00 
+6/10/2025,CSCO,Cisco Systems Inc.,Technology,4.00%,$45.00 ,$54.00 
+6/30/2025,JPM,JPMorgan Chase & Co.,Financials,4.00%,$190.25 ,$118.20 
+6/30/2025,BRK.B,Berkshire Hathaway Inc.,Financials,4.00%,$420.50 ,$138.30 
+6/30/2025,XOM,Exxon Mobil Corporation,Energy,4.00%,$118.75 ,$39.36 
+6/30/2025,CVX,Chevron Corporation,Energy,4.00%,$165.30 ,$192.48 
+6/30/2025,PG,Procter & Gamble Company,Consumer Staples,4.00%,$160.80 ,$114.72 
+6/30/2025,KO,Coca-Cola Company,Consumer Staples,4.00%,$62.40 ,$65.16 
+6/30/2025,JNJ,Johnson & Johnson,Healthcare,4.00%,$155.25 ,$35.70 
+6/30/2025,PFE,Pfizer Inc.,Healthcare,4.00%,$28.90 ,$102.24 
+6/30/2025,VZ,Verizon Communications Inc.,Communication Services,4.00%,$42.10 ,$46.68 
+6/30/2025,T,AT&T Inc.,Communication Services,4.00%,$18.75 ,$30.72 
+6/30/2025,WMT,Walmart Inc.,Consumer Staples,4.00%,$67.80 ,$26.94 
+6/30/2025,MRK,Merck & Co. Inc.,Healthcare,4.00%,$125.60 ,$36.12 
+6/30/2025,IBM,International Business Machines Corp.,Information Technology,4.00%,$185.70 ,$252.00 
+6/30/2025,CSCO,Cisco Systems Inc.,Information Technology,4.00%,$53.90 ,$17.76 
+6/30/2025,INTC,Intel Corporation,Information Technology,4.00%,$32.45 ,$38.70 
+6/30/2025,MMM,3M Company,Industrials,4.00%,$98.20 ,$74.88 
+6/30/2025,CAT,Caterpillar Inc.,Industrials,4.00%,$340.60 ,$132.90 
+6/30/2025,BA,Boeing Company,Industrials,4.00%,$185.25 ,$54.72 
+6/30/2025,GS,Goldman Sachs Group Inc.,Financials,4.00%,$450.80 ,$42.24 
+6/30/2025,USB,U.S. Bancorp,Financials,4.00%,$45.30 ,$58.68 
+6/30/2025,DUK,Duke Energy Corporation,Utilities,4.00%,$100.50 ,$80.76 
+6/30/2025,SO,Southern Company,Utilities,4.00%,$75.80 ,$162.30 
+6/30/2025,BMY,Bristol-Myers Squibb Company,Healthcare,4.00%,$42.15 ,$47.76 
+6/30/2025,CL,Colgate-Palmolive Company,Consumer Staples,4.00%,$85.70 ,$17.76 
+6/30/2025,GD,General Dynamics Corporation,Industrials,4.00%,$290.40 ,$22.50 
+7/6/2025,CVX,Chevron Corporation,Energy,4.00%,$148.37 ,$147.40 
+7/6/2025,JPM,JPMorgan Chase & Co.,Financials,4.00%,$296.00 ,$291.97 
+7/6/2025,WMT,Walmart Inc.,Consumer Staples,4.00%,$98.36 ,$99.35 
+7/6/2025,MRK,Merck & Co. Inc.,Health Care,4.00%,$80.93 ,$80.90 
+7/6/2025,PG,Procter & Gamble Co.,Consumer Staples,4.00%,$159.74 ,$159.41 
+7/6/2025,PM,Philip Morris International Inc.,Consumer Staples,4.00%,$178.88 ,$181.20 
+7/6/2025,IBM,International Business Machines,Information Technology,4.00%,$291.97 ,$292.47 
+7/6/2025,BMY,Bristol-Myers Squibb,Health Care,4.00%,$46.92 ,$46.49 
+7/6/2025,MO,Altria Group Inc.,Consumer Staples,4.00%,$59.65 ,$60.25 
+7/6/2025,PRU,Prudential Financial Inc.,Financials,4.00%,$109.08 ,$106.45 
+7/6/2025,D,Dominion Energy Inc.,Utilities,4.00%,$56.86 ,$56.44 
+7/6/2025,ETR,Entergy Corp.,Utilities,4.00%,$81.92 ,$81.07 
+7/6/2025,IPG,Interpublic Group of Cos.,Communication Services,4.00%,$25.38 ,$25.01 
+7/6/2025,HBAN,Huntington Bancshares Inc.,Financials,4.00%,$17.54 ,$17.38 
+7/6/2025,RF,Regions Financial Corp.,Financials,4.00%,$24.80 ,$24.40 
+7/6/2025,KEY,KeyCorp,Financials,4.00%,$18.46 ,$18.09 
+7/6/2025,MMM,3M Company,Industrials,4.00%,$152.94 ,$150.95 
+7/6/2025,DOW,Dow Inc.,Materials,4.00%,$28.46 ,$27.08 
+7/6/2025,F,Ford Motor Co.,Consumer Discretionary,4.00%,$11.81 ,$11.48 
+7/6/2025,IP,International Paper Co.,Materials,4.00%,$50.43 ,$49.53 
+7/6/2025,LEG,Leggett & Platt Inc.,Consumer Discretionary,4.00%,$9.89 ,$9.57 
+7/6/2025,HPQ,HP Inc.,Information Technology,4.00%,$26.00 ,$25.34 
+7/6/2025,BBY,Best Buy Co. Inc.,Consumer Discretionary,4.00%,$72.10 ,$70.51 
+7/6/2025,KR,Kroger Co.,Consumer Staples,4.00%,$69.83 ,$71.45 
+7/6/2025,NUE,Nucor Corp.,Materials,4.00%,$137.87 ,$136.95 
+7/21/2025,MMM,3M Company,Industrials,4.00%,$98.50 ,$118.20 
+7/21/2025,PRU,Prudential Financial,Financials,4.00%,$115.25 ,$138.30 
+7/21/2025,PFE,Pfizer Inc.,Health Care,4.00%,$32.80 ,$39.36 
+7/21/2025,IBM,International Business Machines,Information Technology,4.00%,$160.40 ,$192.48 
+7/21/2025,LYB,LyondellBasell Industries,Materials,4.00%,$95.60 ,$114.72 
+7/21/2025,DOW,Dow Inc.,Materials,4.00%,$54.30 ,$65.16 
+7/21/2025,HPQ,HP Inc.,Information Technology,4.00%,$29.75 ,$35.70 
+7/21/2025,BBY,Best Buy Co. Inc.,Consumer Discretionary,4.00%,$85.20 ,$102.24 
+7/21/2025,KHC,The Kraft Heinz Company,Consumer Staples,4.00%,$38.90 ,$46.68 
+7/21/2025,RF,Regions Financial Corp.,Financials,4.00%,$25.60 ,$30.72 
+7/21/2025,KEY,KeyCorp,Financials,4.00%,$22.45 ,$26.94 
+7/21/2025,LB,L Brands Inc.,Consumer Discretionary,4.00%,$30.10 ,$36.12 
+7/21/2025,ALB,Albemarle Corporation,Materials,4.00%,$210.00 ,$252.00 
+7/21/2025,HBAN,Huntington Bancshares Inc.,Financials,4.00%,$14.80 ,$17.76 
+7/21/2025,IPG,Interpublic Group of Companies,Communication Services,4.00%,$32.25 ,$38.70 
+7/21/2025,BF.B,Brown-Forman Corporation,Consumer Staples,4.00%,$62.40 ,$74.88 
+7/21/2025,ETR,Entergy Corporation,Utilities,4.00%,$110.75 ,$132.90 
+7/21/2025,CPB,Campbell Soup Company,Consumer Staples,4.00%,$45.60 ,$54.72 
+7/21/2025,GLW,Corning Inc.,Information Technology,4.00%,$35.20 ,$42.24 
+7/21/2025,IP,International Paper Company,Materials,4.00%,$48.90 ,$58.68 
+7/21/2025,CMA,Comerica Inc.,Financials,4.00%,$67.30 ,$80.76 
+7/21/2025,DG,Dollar General Corporation,Consumer Discretionary,4.00%,$135.25 ,$162.30 
+7/21/2025,FE,FirstEnergy Corp.,Utilities,4.00%,$39.80 ,$47.76 
+7/21/2025,HBAN,Huntington Bancshares Inc.,Financials,4.00%,$14.80 ,$17.76 
+7/21/2025,XRX,Xerox Holdings Corp.,Information Technology,4.00%,$18.75 ,$22.50 
+7/22/2025,MMM,3M Company,Industrials,4.00%,$98.50 ,$118.20 
+7/22/2025,PM,Philip Morris International,Consumer Staples,4.00%,$92.70 ,$111.24 
+7/22/2025,PFE,Pfizer Inc.,Health Care,4.00%,$28.45 ,$34.14 
+7/22/2025,GM,General Motors,Consumer Discretionary,4.00%,$38.90 ,$46.68 
+7/22/2025,F,Ford Motor Company,Consumer Discretionary,4.00%,$13.75 ,$16.50 
+7/22/2025,T,AT&T Inc.,Communication Services,4.00%,$16.80 ,$20.16 
+7/22/2025,VZ,Verizon Communications,Communication Services,4.00%,$40.25 ,$48.30 
+7/22/2025,PRU,Prudential Financial,Financials,4.00%,$110.40 ,$132.48 
+7/22/2025,MET,MetLife Inc.,Financials,4.00%,$70.60 ,$84.72 
+7/22/2025,HBAN,Huntington Bancshares,Financials,4.00%,$12.80 ,$15.36 
+7/22/2025,CFG,Citizens Financial Group,Financials,4.00%,$33.45 ,$40.14 
+7/22/2025,KEY,KeyCorp,Financials,4.00%,$14.75 ,$17.70 
+7/22/2025,RF,Regions Financial,Financials,4.00%,$19.10 ,$22.92 
+7/22/2025,CVX,Chevron Corporation,Energy,4.00%,$162.80 ,$195.36 
+7/22/2025,XOM,Exxon Mobil Corporation,Energy,4.00%,$118.40 ,$142.08 
+7/22/2025,MPC,Marathon Petroleum,Energy,4.00%,$178.90 ,$214.68 
+7/22/2025,VLO,Valero Energy,Energy,4.00%,$145.30 ,$174.36 
+7/22/2025,DOW,Dow Inc.,Materials,4.00%,$52.30 ,$62.76 
+7/22/2025,IP,International Paper,Materials,4.00%,$36.80 ,$44.16 
+7/22/2025,BBY,Best Buy Co.,Consumer Discretionary,4.00%,$82.60 ,$99.12 
+7/22/2025,HPQ,HP Inc.,Information Technology,4.00%,$29.75 ,$35.70 
+7/22/2025,IBM,International Business Machines,Information Technology,4.00%,$163.00 ,$195.60 
+7/22/2025,LEN,Lennar Corporation,Real Estate,4.00%,$151.20 ,$181.44 
+7/22/2025,DHI,D.R. Horton,Real Estate,4.00%,$142.50 ,$171.00 
+7/22/2025,ED,Consolidated Edison,Utilities,4.00%,$91.40 ,$109.68 
+7/29/2025,JPM,JPMorgan Chase & Co.,Financials,4.76%,$150.00 ,$180.00 
+7/29/2025,BAC,Bank of America Corporation,Financials,4.76%,$35.00 ,$42.00 
+7/29/2025,WFC,Wells Fargo & Company,Financials,4.76%,$40.00 ,$48.00 
+7/29/2025,TRV,The Travelers Companies Inc.,Financials,4.76%,$200.00 ,$240.00 
+7/29/2025,XOM,Exxon Mobil Corporation,Energy,4.76%,$120.00 ,$150.00 
+7/29/2025,CVX,Chevron Corporation,Energy,4.76%,$165.00 ,$200.00 
+7/29/2025,SLB,Schlumberger Limited,Energy,4.76%,$50.00 ,$60.00 
+7/29/2025,ABBV,AbbVie Inc.,Healthcare,4.76%,$85.00 ,$105.00 
+7/29/2025,BMY,Bristol-Myers Squibb Company,Healthcare,4.76%,$80.00 ,$95.00 
+7/29/2025,PFE,Pfizer Inc.,Healthcare,4.76%,$45.00 ,$55.00 
+7/29/2025,KO,The Coca-Cola Company,Consumer Staples,4.76%,$65.00 ,$75.00 
+7/29/2025,PG,Procter & Gamble Company,Consumer Staples,4.76%,$150.00 ,$180.00 
+7/29/2025,CLX,The Clorox Company,Consumer Staples,4.76%,$140.00 ,$160.00 
+7/29/2025,CAT,Caterpillar Inc.,Industrials,4.76%,$260.00 ,$310.00 
+7/29/2025,UNP,Union Pacific Corporation,Industrials,4.76%,$210.00 ,$250.00 
+7/29/2025,FDX,FedEx Corporation,Industrials,4.76%,$240.00 ,$280.00 
+7/29/2025,HON,Honeywell International Inc.,Industrials,4.76%,$200.00 ,$230.00 
+7/29/2025,INTC,Intel Corporation,Technology,4.76%,$35.00 ,$45.00 
+7/29/2025,ORCL,Oracle Corporation,Technology,4.76%,$100.00 ,$115.00 
+7/29/2025,DUK,Duke Energy Corporation,Utilities,4.76%,$110.00 ,$130.00 
+7/29/2025,MCD,McDonald's Corporation,Consumer Discretionary,4.76%,$290.00 ,$340.00 
+8/4/2025,BRK.B,Berkshire Hathaway Inc.,Diversified,6.67%,$185.00 ,$220.00 
+8/4/2025,XOM,Exxon Mobil Corp.,Energy,6.67%,$105.00 ,$125.00 
+8/4/2025,CVX,Chevron Corp.,Energy,6.67%,$180.00 ,$215.00 
+8/4/2025,JNJ,Johnson & Johnson,Healthcare,6.67%,$165.00 ,$195.00 
+8/4/2025,PG,Procter & Gamble Co.,Consumer Goods,6.67%,$145.00 ,$170.00 
+8/4/2025,DUK,Duke Energy Corp.,Utilities,6.67%,$120.00 ,$140.00 
+8/4/2025,SO,Southern Co.,Utilities,6.67%,$85.00 ,$105.00 
+8/4/2025,AEP,American Electric Power,Utilities,6.67%,$100.00 ,$118.00 
+8/4/2025,BAC,Bank of America Corp.,Financials,6.67%,$45.00 ,$55.00 
+8/4/2025,JPM,JPMorgan Chase & Co.,Financials,6.67%,$185.00 ,$225.00 
+8/4/2025,ABBV,AbbVie Inc.,Healthcare,6.67%,$165.00 ,$195.00 
+8/4/2025,INTC,Intel Corp.,Tech,6.67%,$32.50 ,$40.00 
+8/4/2025,F,Ford Motor Co.,Consumer Discretionary,6.67%,$18.00 ,$23.00 
+8/4/2025,WFC,Wells Fargo & Co.,Financials,6.67%,$45.00 ,$55.00 
+8/4/2025,IBM,International Business Machines,Tech,6.67%,$150.00 ,$180.00 
+8/5/2025,JPM,JPMorgan Chase & Co.,Financials,4.35%,$100.00 ,$130.00 
+8/5/2025,BAC,Bank of America Corporation,Financials,4.35%,$30.00 ,$40.00 
+8/5/2025,XOM,Exxon Mobil Corporation,Energy,4.35%,$80.00 ,$100.00 
+8/5/2025,CVX,Chevron Corporation,Energy,4.35%,$170.00 ,$210.00 
+8/5/2025,BRK.B,Berkshire Hathaway Inc.,Financials,4.35%,$300.00 ,$400.00 
+8/5/2025,PG,Procter & Gamble Company,Consumer Staples,4.35%,$140.00 ,$160.00 
+8/5/2025,KO,The Coca-Cola Company,Consumer Staples,4.35%,$60.00 ,$75.00 
+8/5/2025,MMM,3M Company,Industrials,4.35%,$50.00 ,$65.00 
+8/5/2025,DUK,Duke Energy Corporation,Utilities,4.35%,$80.00 ,$100.00 
+8/5/2025,SO,The Southern Company,Utilities,4.35%,$65.00 ,$80.00 
+8/5/2025,O,Realty Income Corporation,Real Estate,4.35%,$50.00 ,$60.00 
+8/5/2025,C,Citigroup Inc.,Financials,4.35%,$60.00 ,$80.00 
+8/5/2025,WFC,Wells Fargo & Company,Financials,4.35%,$35.00 ,$50.00 
+8/5/2025,COF,Capital One Financial Corporation,Financials,4.35%,$90.00 ,$120.00 
+8/5/2025,PM,Philip Morris International Inc.,Consumer Staples,4.35%,$90.00 ,$110.00 
+8/5/2025,XYL,Xylem Inc.,Industrials,4.35%,$100.00 ,$130.00 
+8/5/2025,LMT,Lockheed Martin Corporation,Industrials,4.35%,$500.00 ,$650.00 
+8/5/2025,IBM,International Business Machines Corporation,Technology,4.35%,$150.00 ,$200.00 
+8/5/2025,LEA,Lear Corporation,Consumer Discretionary,4.35%,$130.00 ,$160.00 
+8/5/2025,TGT,Target Corporation,Consumer Discretionary,4.35%,$200.00 ,$250.00 
+8/5/2025,ABBV,AbbVie Inc.,Healthcare,4.35%,$170.00 ,$215.00 
+8/5/2025,MDT,Medtronic plc,Healthcare,4.35%,$90.00 ,$120.00 
+8/5/2025,BMY,Bristol Myers Squibb Company,Healthcare,4.35%,$75.00 ,$90.00 
+8/6/2025,JPM,JPMorgan Chase & Co.,Financials,4.00%,$150.00 ,$200.00 
+8/6/2025,BAC,Bank of America Corp,Financials,4.00%,$40.00 ,$55.00 
+8/6/2025,WFC,Wells Fargo & Co,Financials,4.00%,$30.00 ,$45.00 
+8/6/2025,BRK.B,Berkshire Hathaway Inc.,Financials,4.00%,$270.00 ,$350.00 
+8/6/2025,DUK,Duke Energy Corp,Utilities,4.00%,$100.00 ,$130.00 
+8/6/2025,D,Dominion Energy Inc,Utilities,4.00%,$90.00 ,$120.00 
+8/6/2025,SO,Southern Co,Utilities,4.00%,$80.00 ,$110.00 
+8/6/2025,ED,Consolidated Edison Inc,Utilities,4.00%,$90.00 ,$115.00 
+8/6/2025,KO,Coca-Cola Co,Consumer Staples,4.00%,$65.00 ,$85.00 
+8/6/2025,PG,Procter & Gamble Co,Consumer Staples,4.00%,$150.00 ,$190.00 
+8/6/2025,PEP,PepsiCo Inc,Consumer Staples,4.00%,$180.00 ,$230.00 
+8/6/2025,STZ,Constellation Brands Inc,Consumer Staples,4.00%,$250.00 ,$320.00 
+8/6/2025,CL,Colgate-Palmolive Co,Consumer Staples,4.00%,$85.00 ,$110.00 
+8/6/2025,CAT,Caterpillar Inc,Industrials,4.00%,$220.00 ,$280.00 
+8/6/2025,MMM,3M Co,Industrials,4.00%,$140.00 ,$180.00 
+8/6/2025,UNP,Union Pacific Corp,Industrials,4.00%,$220.00 ,$270.00 
+8/6/2025,DE,Deere & Co,Industrials,4.00%,$300.00 ,$350.00 
+8/6/2025,JNJ,Johnson & Johnson,Healthcare,4.00%,$170.00 ,$210.00 
+8/6/2025,MRK,Merck & Co. Inc.,Healthcare,4.00%,$90.00 ,$120.00 
+8/6/2025,PFE,Pfizer Inc,Healthcare,4.00%,$50.00 ,$65.00 
+8/6/2025,ABT,Abbott Laboratories,Healthcare,4.00%,$110.00 ,$140.00 
+8/6/2025,XOM,Exxon Mobil Corp,Energy,4.00%,$90.00 ,$120.00 
+8/6/2025,CVX,Chevron Corp,Energy,4.00%,$170.00 ,$220.00 
+8/6/2025,COP,ConocoPhillips,Energy,4.00%,$120.00 ,$150.00 
+8/6/2025,BP,BP plc,Energy,4.00%,$35.00 ,$45.00 

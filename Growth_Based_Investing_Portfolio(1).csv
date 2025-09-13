@@ -1,0 +1,345 @@
+Date,Ticker,Company Name,Sector,Weight,Price,Price Sell
+4/28/2025,MSFT,Microsoft Corporation,Information Technology,8.00%,$390.44 ,$393.32
+4/28/2025,AAPL,Apple Inc.,Information Technology,8.00%,$209.86 ,$210.93
+4/28/2025,NVDA,NVIDIA Corporation,Information Technology,8.00%,$108.72 ,$109.01
+4/28/2025,AMZN,Amazon.com Inc.,Consumer Discretionary,8.00%,$187.70 ,$187.39
+4/28/2025,GOOGL,Alphabet Inc.,Communication Services,8.00%,$162.22 ,$161.86
+4/28/2025,META,Meta Platforms Inc.,Communication Services,7.00%,$549.32 ,$554.01
+4/28/2025,TSLA,Tesla Inc.,Consumer Discretionary,6.00%,$285.88 ,$292.03
+4/28/2025,ADBE,Adobe Inc.,Information Technology,4.00%,$368.62 ,$370.98
+4/28/2025,CRM,Salesforce Inc.,Information Technology,4.00%,$265.22 ,$267.34
+4/28/2025,NFLX,Netflix Inc.,Communication Services,3.00%,"$1,110.38 ","$1,125.64"
+4/28/2025,AMD,Advanced Micro Devices Inc.,Information Technology,3.00%,$96.39 ,$96.06
+4/28/2025,AVGO,Broadcom Inc.,Information Technology,3.00%,$192.02 ,$190.72
+4/28/2025,PANW,Palo Alto Networks Inc.,Information Technology,3.00%,$181.54 ,$186.65
+4/28/2025,NOW,ServiceNow Inc.,Information Technology,3.00%,$937.41 ,$942.86
+4/28/2025,SNOW,Snowflake Inc.,Information Technology,3.00%,$158.96 ,$160.35
+4/28/2025,DDOG,Datadog Inc.,Information Technology,3.00%,$101.74 ,$102.31
+4/28/2025,UBER,Uber Technologies Inc.,Industrials,2.00%,$78.33 ,$79.42
+4/28/2025,UNH,UnitedHealth Group Inc.,Health Care,2.00%,$417.04 ,$406.34
+4/28/2025,MRNA,Moderna Inc.,Health Care,2.00%,$27.46 ,$27.82
+4/28/2025,REGN,Regeneron Pharmaceuticals Inc.,Health Care,2.00%,$609.96 ,$568.07
+4/28/2025,VRTX,Vertex Pharmaceuticals Incorporated,Health Care,2.00%,$496.49 ,$503.50
+4/28/2025,ISRG,Intuitive Surgical Inc.,Health Care,2.00%,$514.01 ,$514.89
+4/28/2025,BKNG,Booking Holdings Inc.,Consumer Discretionary,2.00%,"$4,881.52 ","$4,900.77"
+4/28/2025,HD,The Home Depot Inc.,Consumer Discretionary,2.00%,$354.72 ,$356.78
+4/28/2025,SHOP,Shopify Inc.,Consumer Discretionary,2.00%,$98.57 ,$98.92
+5/1/2025,MSFT,Microsoft Corporation,Information Technology,6.00%,$424.62 ,$434.48
+5/1/2025,NVDA,NVIDIA Corporation,Information Technology,6.00%,$11.70 ,$114.49
+5/1/2025,AMZN,Amazon.com Inc.,Consumer Discretionary,6.00%,$190.20 ,$189.98
+5/1/2025,GOOGL,Alphabet Inc.,Communication Services,6.00%,$162.59 ,$165.61
+5/1/2025,META,Meta Platforms Inc.,Communication Services,6.00%,$571.77 ,$596.56
+5/1/2025,AAPL,Apple Inc.,Information Technology,5.00%,$213.04 ,$205.08
+5/1/2025,ADBE,Adobe Inc.,Information Technology,5.00%,$374.63 ,$380.87
+5/1/2025,CRM,Salesforce Inc.,Information Technology,5.00%,$268.90 ,$274.64
+5/1/2025,NOW,ServiceNow Inc.,Information Technology,5.00%,$957.95 ,$977.36
+5/1/2025,PANW,Palo Alto Networks Inc.,Information Technology,5.00%,$186.27 ,$187.70
+5/1/2025,AMD,Advanced Micro Devices Inc.,Information Technology,5.00%,$96.65 ,$98.80
+5/1/2025,AVGO,Broadcom Inc.,Information Technology,5.00%,$196.87 ,$203.16
+5/1/2025,TSLA,Tesla Inc.,Consumer Discretionary,3.00%,$280.52 ,$287.21
+5/1/2025,UNH,UnitedHealth Group Inc.,Health Care,3.00%,$397.85 ,$397.10
+5/1/2025,ISRG,Intuitive Surgical Inc.,Health Care,3.00%,$517.18 ,$529.42
+5/1/2025,LLY,Eli Lilly and Co.,Health Care,3.00%,$792.48 ,$821.94
+5/1/2025,V,Visa Inc.,Financials,3.00%,$341.88 ,$347.02
+5/1/2025,MA,Mastercard Inc.,Financials,3.00%,$545.89 ,$558.63
+5/1/2025,AMAT,Applied Materials Inc.,Information Technology,3.00%,$148.54 ,$154.66
+5/1/2025,LRCX,Lam Research Corp.,Information Technology,3.00%,$71.55 ,$74.33
+5/1/2025,INTU,Intuit Inc.,Information Technology,3.00%,$622.35 ,$630.83
+5/1/2025,HD,Home Depot Inc.,Consumer Discretionary,2.00%,$356.08 ,$362.27
+5/1/2025,NFLX,Netflix Inc.,Communication Services,2.00%,"$1,133.47 ","$1,156.49"
+5/1/2025,UBER,Uber Technologies Inc.,Industrials,2.00%,$80.89 ,$84.28
+5/1/2025,MRNA,Moderna Inc.,Health Care,2.00%,$27.03 ,$27.61
+5/4/2025,MSFT,Microsoft Corporation,Information Technology,6.00%,$434.48 ,$435.37
+5/4/2025,AAPL,Apple Inc.,Information Technology,6.00%,$205.08 ,$198.63
+5/4/2025,AMZN,Amazon.com Inc.,Consumer Discretionary,6.00%,$189.98 ,$186.35
+5/4/2025,GOOG,Alphabet Inc.,Communication Services,6.00%,$165.61 ,$165.85
+5/4/2025,NVDA,NVIDIA Corporation,Information Technology,6.00%,$114.49 ,$113.81
+5/4/2025,META,Meta Platforms Inc.,Communication Services,5.00%,$595.56 ,$598.81
+5/4/2025,TSLA,Tesla Inc.,Consumer Discretionary,5.00%,$287.21 ,$280.26
+5/4/2025,CRM,Salesforce Inc.,Information Technology,5.00%,$274.64 ,$272.20
+5/4/2025,ADBE,Adobe Inc.,Information Technology,5.00%,$380.87 ,$381.06
+5/4/2025,AMD,Advanced Micro Devices Inc.,Information Technology,5.00%,$98.80 ,$100.59
+5/4/2025,AVGO,Broadcom Inc.,Information Technology,4.00%,$203.16 ,$200.25
+5/4/2025,NOW,ServiceNow Inc.,Information Technology,4.00%,$977.36 ,$978.05
+5/4/2025,PANW,Palo Alto Networks Inc.,Information Technology,4.00%,$187.70 ,$188.13
+5/4/2025,CRWD,CrowdStrike Holdings Inc.,Information Technology,4.00%,$440.58 ,$443.47
+5/4/2025,REGN,Regeneron Pharmaceuticals Inc.,Health Care,4.00%,$604.72 ,$602.60
+5/4/2025,VRTX,Vertex Pharmaceuticals Inc.,Health Care,3.00%,$501.15 ,$500.19
+5/4/2025,MRNA,Moderna Inc.,Health Care,3.00%,$27.61 ,$27.84
+5/4/2025,UNH,UnitedHealth Group Inc.,Health Care,3.00%,$347.02 ,$348.06
+5/4/2025,V,Visa Inc.,Financials,3.00%,$558.63 ,$560.36
+5/4/2025,MA,Mastercard Inc.,Financials,3.00%,$99.25 ,$98.38
+5/4/2025,SHOP,Shopify Inc.,Information Technology,2.00%,$99.25 ,$98.38
+5/4/2025,ISRG,Intuitive Surgical Inc.,Health Care,2.00%,$529.42 ,$531.82
+5/4/2025,LRCX,Lam Research Corp.,Information Technology,2.00%,$74.33 ,$73.73
+5/4/2025,NEE,NextEra Energy Inc.,Utilities,2.00%,$66.55 ,$65.57
+5/4/2025,PYPL,PayPal Holdings Inc.,Financials,2.00%,$67.24 ,$68.54
+5/5/2025,NVDA,NVIDIA Corporation,Information Technology,5.00%,$113.81 ,$113.53
+5/5/2025,MSFT,Microsoft Corporation,Information Technology,5.00%,$435.37 ,$432.52
+5/5/2025,AMZN,Amazon.com Inc.,Consumer Discretionary,5.00%,$186.35 ,$185.00
+5/5/2025,GOOGL,Alphabet Inc.,Communication Services,5.00%,$165.85 ,$165.00
+5/5/2025,META,Meta Platforms Inc.,Communication Services,5.00%,$598.81 ,$586.86
+5/5/2025,TSLA,Tesla Inc.,Consumer Discretionary,4.00%,$280.26 ,$275.35
+5/5/2025,ADBE,Adobe Inc.,Information Technology,4.00%,$381.06 ,$382.98
+5/5/2025,CRM,Salesforce Inc.,Information Technology,4.00%,$272.20 ,$272.93
+5/5/2025,NFLX,Netflix Inc.,Communication Services,4.00%,"$1,134.06 ","$1,137.69"
+5/5/2025,PYPL,PayPal Holdings Inc.,Financials,4.00%,$68.54 ,$68.05
+5/5/2025,ISRG,Intuitive Surgical Inc.,Health Care,4.00%,$531.82 ,$530.46
+5/5/2025,PANW,Palo Alto Networks Inc.,Information Technology,4.00%,$188.13 ,$188.69
+5/5/2025,SHOP,Shopify Inc.,Information Technology,4.00%,$98.38 ,$93.83
+5/5/2025,NOW,ServiceNow Inc.,Information Technology,4.00%,$978.05 ,$965.26
+5/5/2025,AMD,Advanced Micro Devices Inc.,Information Technology,4.00%,$100.59 ,$98.62
+5/5/2025,VRTX,Vertex Pharmaceuticals Inc.,Health Care,3.50%,$500.19 ,$450.03
+5/5/2025,UNH,UnitedHealth Group Inc.,Health Care,3.50%,$401.96 ,$391.73
+5/5/2025,HD,The Home Depot Inc.,Consumer Discretionary,3.50%,$359.50 ,$357.16
+5/5/2025,NKE,Nike Inc.,Consumer Discretionary,3.50%,$56.97 ,$56.66
+5/5/2025,ETSY,Etsy Inc.,Consumer Discretionary,3.50%,$45.08 ,$45.11
+5/5/2025,DXCM,Dexcom Inc.,Health Care,3.50%,$80.27 ,$81.53
+5/5/2025,CRWD,CrowdStrike Holdings Inc.,Information Technology,3.50%,$443.47 ,$443.21
+5/5/2025,ZTS,Zoetis Inc.,Health Care,3.50%,$157.53 ,$149.37
+5/5/2025,FTNT,Fortinet Inc.,Information Technology,3.50%,$108.69 ,$107.14
+5/5/2025,ADSK,Autodesk Inc.,Information Technology,3.50%,$280.07 ,$278.64
+5/6/2025,NVDA,NVIDIA Corporation,Information Technology,8.08%,$113.53 ,$117.05
+5/6/2025,MSFT,Microsoft Corporation,Information Technology,7.58%,$432.52 ,$432.55
+5/6/2025,AMZN,Amazon.com Inc.,Consumer Discretionary,7.07%,$185.00 ,$188.71
+5/6/2025,GOOG,Alphabet Inc.,Communication Services,7.07%,$165.00 ,$152.62
+5/6/2025,META,Meta Platforms Inc.,Communication Services,5.56%,$586.86 ,$596.35
+5/6/2025,TSLA,Tesla Inc.,Consumer Discretionary,5.56%,$273.35 ,$276.22
+5/6/2025,ADBE,Adobe Inc.,Information Technology,4.04%,$382.98 ,$384.97
+5/6/2025,AMD,Advanced Micro Devices Inc.,Information Technology,4.04%,$98.62 ,$100.36
+5/6/2025,AVGO,Broadcom Inc.,Information Technology,4.04%,$199.62 ,$204.33
+5/6/2025,CRM,Salesforce Inc.,Information Technology,4.04%,$272.93 ,$277.79
+5/6/2025,VRTX,Vertex Pharmaceuticals Inc.,Health Care,3.54%,$450.03 ,$434.82
+5/6/2025,REGN,Regeneron Pharmaceuticals Inc.,Health Care,3.54%,$557.70 ,$560.10
+5/6/2025,ISRG,Intuitive Surgical Inc.,Health Care,3.03%,$530.46 ,$536.15
+5/6/2025,MRNA,Moderna Inc.,Health Care,3.03%,$24.43 ,$24.06
+5/6/2025,DXCM,DexCom Inc.,Health Care,3.03%,$81.53 ,$83.35
+5/6/2025,ABNB,Airbnb Inc.,Consumer Discretionary,3.03%,$121.67 ,$123.12
+5/6/2025,BKNG,Booking Holdings Inc.,Consumer Discretionary,3.03%,"$5,153.47 ","$5,187.28"
+5/6/2025,HD,The Home Depot Inc.,Consumer Discretionary,3.03%,$357.16 ,$360.51
+5/6/2025,PYPL,PayPal Holdings Inc.,Financials,3.03%,$68.05 ,$68.69
+5/6/2025,PANW,Palo Alto Networks Inc.,Information Technology,3.03%,$188.69 ,$188.14
+5/6/2025,SNPS,Synopsys Inc.,Information Technology,2.53%,$473.55,$480.54
+5/6/2025,NOW,ServiceNow Inc.,Information Technology,2.53%,$965.26,$983.29
+5/6/2025,NFLX,Netflix Inc.,Communication Services,2.53%,"$1,137.69","$1,155.41"
+5/6/2025,ENPH,Enphase Energy Inc.,Information Technology,2.02%,$24.87,$43.73
+5/6/2025,ROK,Rockwell Automation Inc.,Industrials,2.02%,$251.98,$281.97
+5/7/2025,NVDA,NVIDIA Corporation,Information Technology,6.00%,$117.05 ,$117.36 
+5/7/2025,MSFT,Microsoft Corporation,Information Technology,6.00%,$432.55 ,$437.36 
+5/7/2025,AMZN,Amazon.com Inc.,Consumer Discretionary,6.00%,$188.71 ,$192.08 
+5/7/2025,GOOG,Alphabet Inc.,Communication Services,6.00%,$152.61 ,$155.56 
+5/7/2025,META,Meta Platforms Inc.,Communication Services,6.00%,$596.35 ,$597.55 
+5/7/2025,ADBE,Adobe Inc.,Information Technology,4.00%,$384.97 ,$383.98 
+5/7/2025,CRM,Salesforce Inc.,Information Technology,4.00%,$277.78 ,$270.29 
+5/7/2025,TSLA,Tesla Inc.,Consumer Discretionary,4.00%,$276.22 ,$284.82 
+5/7/2025,AVGO,Broadcom Inc.,Information Technology,4.00%,$204.32 ,$207.82 
+5/7/2025,AMD,Advanced Micro Devices Inc.,Information Technology,4.00%,$100.36 ,$101.69 
+5/7/2025,UNH,UnitedHealth Group Inc.,Healthcare,4.00%,$388.30 ,$382.83 
+5/7/2025,ISRG,Intuitive Surgical Inc.,Healthcare,4.00%,$536.15 ,$538.16 
+5/7/2025,NOW,ServiceNow Inc.,Information Technology,4.00%,$983.28 ,$974.49 
+5/7/2025,SHOP,Shopify Inc.,Information Technology,4.00%,$94.50 ,$94.00 
+5/7/2025,MA,Mastercard Inc.,Financials,4.00%,$564.56 ,$566.35 
+5/7/2025,V,Visa Inc.,Financials,3.00%,$349.26 ,$350.68 
+5/7/2025,PYPL,PayPal Holdings Inc.,Financials,3.00%,$68.69 ,$70.48 
+5/7/2025,ENPH,Enphase Energy Inc.,Information Technology,3.00%,$43.73 ,$49.04 
+5/7/2025,NEE,NextEra Energy Inc.,Utilities,3.00%,$66.81 ,$67.77 
+5/7/2025,HD,Home Depot Inc.,Consumer Discretionary,3.00%,$360.50 ,$362.60 
+5/7/2025,NFLX,Netflix Inc.,Communication Services,3.00%,"$1,155.41 ","$1,144.43 "
+5/7/2025,ETSY,Etsy Inc.,Consumer Discretionary,3.00%,$45.91 ,$47.86 
+5/7/2025,MRVL,Marvell Technology Inc.,Information Technology,3.00%,$56.26 ,$57.58 
+5/7/2025,ABT,Abbott Laboratories,Healthcare,3.00%,$133.35 ,$133.40 
+5/7/2025,DXCM,DexCom Inc.,Healthcare,3.00%,$83.49 ,$85.33 
+5/27/2025,NVDA,NVIDIA Corporation,Information Technology,10.00%,$135.49 ,$134.80 
+5/27/2025,MSFT,Microsoft Corporation,Information Technology,7.00%,$460.69 ,$457.36 
+5/27/2025,AMZN,Amazon.com Inc.,Consumer Discretionary,8.00%,$206.02 ,$204.72 
+5/27/2025,GOOG,Alphabet Inc.,Communication Services,6.00%,$173.77 ,$173.17 
+5/27/2025,ADBE,Adobe Inc.,Information Technology,5.00%,$413.10 ,$412.23 
+5/27/2025,AVGO,Broadcom Inc.,Information Technology,4.00%,$235.09 ,$238.86 
+5/27/2025,AMD,Advanced Micro Devices Inc.,Information Technology,4.00%,$114.55 ,$112.86 
+5/27/2025,CRM,Salesforce Inc.,Information Technology,3.00%,$276.75 ,$275.59 
+5/27/2025,PANW,Palo Alto Networks Inc.,Information Technology,3.00%,$187.46 ,$187.80 
+5/27/2025,CRWD,CrowdStrike Holdings Inc.,Information Technology,3.00%,$472.22 ,$468.82 
+5/27/2025,TSLA,Tesla Inc.,Consumer Discretionary,6.00%,$362.89 ,$356.89 
+5/27/2025,UNH,UnitedHealth Group Inc.,Health Care,5.00%,$292.92 ,$296.00 
+5/27/2025,MRNA,Moderna Inc.,Health Care,3.00%,$26.76 ,$26.04 
+5/27/2025,BIIB,Biogen Inc.,Health Care,2.00%,$128.38 ,$127.53 
+5/27/2025,REGN,Regeneron Pharmaceuticals Inc.,Health Care,2.00%,$603.26 ,$591.85 
+5/27/2025,META,Meta Platforms Inc.,Communication Services,5.00%,$641.82 ,$643.08 
+5/27/2025,NFLX,Netflix Inc.,Communication Services,3.00%,"$1,211.56 ","$1,208.55 "
+5/27/2025,V,Visa Inc.,Financials,4.00%,$359.29 ,$359.73 
+5/27/2025,MA,Mastercard Inc.,Financials,3.00%,$573.77 ,$575.14 
+5/27/2025,NEE,NextEra Energy Inc.,Utilities,4.00%,$67.49 ,$66.67 
+5/27/2025,HON,Honeywell International Inc.,Industrials,2.00%,$226.46 ,$224.61 
+5/27/2025,QCOM,Qualcomm Inc.,Information Technology,2.00%,$147.74 ,$146.71 
+5/27/2025,VRTX,Vertex Pharmaceuticals Inc.,Health Care,2.00%,$446.00 ,$445.10 
+5/27/2025,NKE,Nike Inc.,Consumer Discretionary,2.00%,$62.41 ,$61.37 
+5/27/2025,DDOG,Datadog Inc.,Information Technology,2.00%,$117.59 ,$116.30 
+5/29/2025,MSFT,Microsoft Corporation,Information Technology,5.21%,$458.67 ,$460.36 
+5/29/2025,NVDA,NVIDIA Corporation,Information Technology,5.21%,$139.18 ,$135.12 
+5/29/2025,AAPL,Apple Inc.,Information Technology,4.17%,$199.94 ,$200.85 
+5/29/2025,AMD,Advanced Micro Devices Inc.,Information Technology,4.17%,$113.02 ,$110.73 
+5/29/2025,AVGO,Broadcom Inc.,Information Technology,4.17%,$241.40 ,$241.50 
+5/29/2025,CRM,Salesforce Inc.,Information Technology,4.17%,$266.49 ,$264.94 
+5/29/2025,ADBE,Adobe Inc.,Information Technology,3.12%,$413.36 ,$415.09 
+5/29/2025,NOW,ServiceNow Inc.,Information Technology,3.12%,"$1,015.22 ","$1,011.09 "
+5/29/2025,INTU,Intuit Inc.,Information Technology,3.12%,$756.19 ,$752.45 
+5/29/2025,AMAT,Applied Materials Inc.,Information Technology,3.12%,$159.47 ,$156.75 
+5/29/2025,UNH,UnitedHealth Group Inc.,Health Care,4.17%,$296.06 ,$299.78 
+5/29/2025,LLY,Eli Lilly and Company,Health Care,4.17%,$722.57 ,$737.66 
+5/29/2025,VRTX,Vertex Pharmaceuticals Incorporated,Health Care,4.17%,$447.09 ,$442.04 
+5/29/2025,DXCM,DexCom Inc.,Health Care,3.65%,$84.86 ,$85.80 
+5/29/2025,REGN,Regeneron Pharmaceuticals Inc.,Health Care,3.65%,$605.39 ,$490.27 
+5/29/2025,AMZN,Amazon.com Inc.,Consumer Discretionary,5.21%,$205.70 ,$205.00 
+5/29/2025,TSLA,Tesla Inc.,Consumer Discretionary,5.21%,$358.42 ,$346.46 
+5/29/2025,ABNB,Airbnb Inc.,Consumer Discretionary,4.17%,$128.36 ,$129.00 
+5/29/2025,BKNG,Booking Holdings Inc.,Consumer Discretionary,4.17%,"$5,492.51 ","$5,509.41 "
+5/29/2025,NKE,Nike Inc.,Consumer Discretionary,3.12%,$61.03 ,$60.18 
+5/29/2025,META,Meta Platforms Inc.,Communication Services,5.21%,$644.55 ,$647.00 
+5/29/2025,GOOGL,Alphabet Inc.,Communication Services,5.21%,$172.75 ,$172.64 
+5/29/2025,NFLX,Netflix Inc.,Communication Services,4.17%,"$1,184.85 ","$1,207.23 "
+5/29/2025,DIS,The Walt Disney Company,Communication Services,3.12%,$111.54 ,$112.55 
+5/29/2025,V,Visa Inc.,Financials,1.04%,$362.40 ,$365.20 
+6/4/2025,NVDA,NVIDIA Corporation,Information Technology,9.00%,$800.00 ,"$1,000.00 "
+6/4/2025,MSFT,Microsoft Corporation,Information Technology,8.00%,$450.00 ,$540.00 
+6/4/2025,AMZN,Amazon.com Inc,Consumer Discretionary,7.00%,$180.00 ,$225.00 
+6/4/2025,META,Meta Platforms Inc,Communication Services,6.00%,$350.00 ,$455.00 
+6/4/2025,AAPL,Apple Inc,Information Technology,5.00%,$220.00 ,$264.00 
+6/4/2025,GOOGL,Alphabet Inc,Communication Services,5.00%,$160.00 ,$200.00 
+6/4/2025,CRM,Salesforce Inc,Information Technology,4.00%,$250.00 ,$325.00 
+6/4/2025,ADBE,Adobe Inc,Information Technology,4.00%,$600.00 ,$750.00 
+6/4/2025,AMD,Advanced Micro Devices Inc,Information Technology,4.00%,$150.00 ,$195.00 
+6/4/2025,ASML,ASML Holding NV,Information Technology,4.00%,$900.00 ,"$1,170.00 "
+6/4/2025,TSLA,Tesla Inc,Consumer Discretionary,5.00%,$250.00 ,$325.00 
+6/4/2025,HD,The Home Depot Inc,Consumer Discretionary,3.00%,$350.00 ,$420.00 
+6/4/2025,LOW,Lowe's Companies Inc,Consumer Discretionary,3.00%,$220.00 ,$264.00 
+6/4/2025,VRTX,Vertex Pharmaceuticals Inc,Healthcare,4.00%,$450.00 ,$585.00 
+6/4/2025,REGN,Regeneron Pharmaceuticals Inc,Healthcare,4.00%,"$1,000.00 ","$1,300.00 "
+6/4/2025,ISRG,Intuitive Surgical Inc,Healthcare,3.00%,$400.00 ,$520.00 
+6/4/2025,DXCM,DexCom Inc,Healthcare,3.00%,$130.00 ,$169.00 
+6/4/2025,PYPL,PayPal Holdings Inc,Financials,3.00%,$80.00 ,$104.00 
+6/4/2025,NOW,ServiceNow Inc,Information Technology,3.00%,$700.00 ,$910.00 
+6/4/2025,PANW,Palo Alto Networks Inc,Information Technology,3.00%,$600.00 ,$780.00 
+6/4/2025,SNPS,Synopsys Inc,Information Technology,2.00%,$500.00 ,$650.00 
+6/4/2025,MTCH,Match Group Inc,Communication Services,2.00%,$60.00 ,$78.00 
+6/4/2025,ZTS,Zoetis Inc,Healthcare,2.00%,$200.00 ,$260.00 
+6/4/2025,IDXX,IDEXX Laboratories Inc,Healthcare,2.00%,$550.00 ,$715.00 
+6/4/2025,CDNS,Cadence Design Systems Inc,Information Technology,2.00%,$300.00 ,$390.00 
+6/10/2025,MSFT,Microsoft Corporation,Technology,8.08%,$500.00 ,$650.00 
+6/10/2025,NVDA,NVIDIA Corporation,Technology,8.08%,$800.00 ,"$1,100.00 "
+6/10/2025,AMZN,Amazon.com Inc.,Consumer Discretionary,7.07%,$150.00 ,$200.00 
+6/10/2025,GOOGL,Alphabet Inc.,Communication Services,5.05%,"$2,000.00 ","$2,600.00 "
+6/10/2025,META,Meta Platforms Inc.,Communication Services,3.03%,$400.00 ,$520.00 
+6/10/2025,CRM,Salesforce Inc.,Technology,4.04%,$300.00 ,$390.00 
+6/10/2025,ADBE,Adobe Inc.,Technology,3.03%,$600.00 ,$780.00 
+6/10/2025,AVGO,Broadcom Inc.,Technology,3.03%,"$1,200.00 ","$1,560.00 "
+6/10/2025,AMD,Advanced Micro Devices Inc.,Technology,3.03%,$180.00 ,$234.00 
+6/10/2025,TSLA,Tesla Inc.,Consumer Discretionary,5.05%,$250.00 ,$325.00 
+6/10/2025,PANW,Palo Alto Networks Inc.,Technology,2.02%,$600.00 ,$780.00 
+6/10/2025,CRWD,CrowdStrike Holdings Inc.,Technology,2.02%,$300.00 ,$390.00 
+6/10/2025,ISRG,Intuitive Surgical Inc.,Healthcare,5.05%,$400.00 ,$520.00 
+6/10/2025,VRTX,Vertex Pharmaceuticals Inc.,Healthcare,5.05%,$450.00 ,$585.00 
+6/10/2025,REGN,Regeneron Pharmaceuticals Inc.,Healthcare,5.05%,"$1,000.00 ","$1,300.00 "
+6/10/2025,MA,Mastercard Inc.,Financials,4.04%,$450.00 ,$585.00 
+6/10/2025,V,Visa Inc.,Financials,4.04%,$280.00 ,$364.00 
+6/10/2025,PYPL,PayPal Holdings Inc.,Financials,3.03%,$80.00 ,$104.00 
+6/10/2025,SQ,Block Inc.,Financials,4.04%,$100.00 ,$130.00 
+6/10/2025,NFLX,Netflix Inc.,Communication Services,2.02%,$600.00 ,$780.00 
+6/10/2025,HD,The Home Depot Inc.,Consumer Discretionary,3.03%,$350.00 ,$455.00 
+6/10/2025,ABNB,Airbnb Inc.,Consumer Discretionary,2.02%,$150.00 ,$195.00 
+6/10/2025,QCOM,Qualcomm Inc.,Technology,2.02%,$150.00 ,$195.00 
+6/10/2025,TSM,Taiwan Semiconductor Manufacturing Company,Technology,2.02%,$150.00 ,$195.00 
+6/10/2025,NEE,NextEra Energy Inc.,Utilities,5.05%,$80.00 ,$104.00 
+7/21/2025,MSFT,Microsoft Corporation,Technology,4.00%,$490.00 ,$612.50 
+7/21/2025,AAPL,Apple Inc.,Technology,4.00%,$220.00 ,$275.00 
+7/21/2025,NVDA,NVIDIA Corporation,Technology,4.00%,$720.00 ,$900.00 
+7/21/2025,AMZN,Amazon.com Inc.,Consumer Discretionary,4.00%,$190.00 ,$237.50 
+7/21/2025,GOOG,Alphabet Inc.,Communication Services,4.00%,$175.00 ,$218.75 
+7/21/2025,META,Meta Platforms Inc.,Communication Services,4.00%,$530.00 ,$662.50 
+7/21/2025,TSLA,Tesla Inc.,Consumer Discretionary,4.00%,$280.00 ,$350.00 
+7/21/2025,ADBE,Adobe Inc.,Technology,4.00%,$610.00 ,$762.50 
+7/21/2025,NFLX,Netflix Inc.,Communication Services,4.00%,$680.00 ,$850.00 
+7/21/2025,MA,Mastercard Incorporated,Financials,4.00%,$480.00 ,$600.00 
+7/21/2025,V,Visa Inc.,Financials,4.00%,$290.00 ,$362.50 
+7/21/2025,UNH,UnitedHealth Group Incorporated,Healthcare,4.00%,$570.00 ,$712.50 
+7/21/2025,HD,The Home Depot Inc.,Consumer Discretionary,4.00%,$380.00 ,$475.00 
+7/21/2025,LOW,Lowe's Companies Inc.,Consumer Discretionary,4.00%,$240.00 ,$300.00 
+7/21/2025,COST,Costco Wholesale Corporation,Consumer Staples,4.00%,$780.00 ,$975.00 
+7/21/2025,TMO,Thermo Fisher Scientific Inc.,Healthcare,4.00%,$630.00 ,$787.50 
+7/21/2025,ISRG,Intuitive Surgical Inc.,Healthcare,4.00%,$420.00 ,$525.00 
+7/21/2025,AVGO,Broadcom Inc.,Technology,4.00%,"$1,600.00 ","$2,000.00 "
+7/21/2025,NEE,NextEra Energy Inc.,Utilities,4.00%,$85.00 ,$106.25 
+7/21/2025,SQ,Block Inc.,Financials,4.00%,$90.00 ,$112.50 
+7/21/2025,DHR,Danaher Corporation,Healthcare,4.00%,$300.00 ,$375.00 
+7/21/2025,SPGI,S&P Global Inc.,Financials,4.00%,$450.00 ,$562.50 
+7/21/2025,EL,Estée Lauder Companies Inc.,Consumer Staples,4.00%,$150.00 ,$187.50 
+7/21/2025,IDXX,IDEXX Laboratories Inc.,Healthcare,4.00%,$550.00 ,$687.50 
+7/21/2025,SNPS,Synopsys Inc.,Technology,4.00%,$620.00 ,$775.00 
+7/29/2025,AAPL,Apple Inc,Technology,4.35%,$190.00 ,$230.00 
+7/29/2025,MSFT,Microsoft Corp,Technology,4.35%,$345.00 ,$420.00 
+7/29/2025,NVDA,NVIDIA Corp,Technology,4.35%,$650.00 ,$780.00 
+7/29/2025,AMZN,Amazon.com Inc,Consumer Discretionary,4.35%,$160.00 ,$200.00 
+7/29/2025,AAPL,Meta Platforms Inc,Technology,4.35%,$450.00 ,$550.00 
+7/29/2025,TSLA,Tesla Inc,Consumer Discretionary,4.35%,$180.00 ,$220.00 
+7/29/2025,MRNA,Moderna Inc,Health Care,4.35%,$150.00 ,$185.00 
+7/29/2025,UNH,UnitedHealth Group Inc,Health Care,4.35%,$490.00 ,$600.00 
+7/29/2025,ABBV,AbbVie Inc,Health Care,4.35%,$160.00 ,$200.00 
+7/29/2025,AMD,Advanced Micro Devices Inc,Technology,4.35%,$185.00 ,$230.00 
+7/29/2025,VRTX,Vertex Pharmaceuticals Inc,Health Care,4.35%,$330.00 ,$410.00 
+7/29/2025,NFLX,Netflix Inc,Consumer Discretionary,4.35%,$550.00 ,$675.00 
+7/29/2025,AVGO,Broadcom Inc,Technology,4.35%,$650.00 ,$770.00 
+7/29/2025,QCOM,Qualcomm Inc,Technology,4.35%,$175.00 ,$215.00 
+7/29/2025,NEE,NextEra Energy Inc,Utilities,4.35%,$350.00 ,$435.00 
+7/29/2025,HD,Home Depot Inc,Consumer Discretionary,4.35%,$335.00 ,$410.00 
+7/29/2025,COST,Costco Wholesale Corp,Consumer Staples,4.35%,$575.00 ,$700.00 
+7/29/2025,CRM,Salesforce Inc,Technology,4.35%,$230.00 ,$285.00 
+7/29/2025,ADBE,Adobe Inc,Technology,4.35%,$470.00 ,$575.00 
+7/29/2025,ENPH,Enphase Energy Inc,Industrials,4.35%,$230.00 ,$290.00 
+7/29/2025,GOOGL,Alphabet Inc,Technology,4.35%,$140.00 ,$170.00 
+7/29/2025,ORCL,Oracle Corp,Technology,4.35%,$120.00 ,$145.00 
+7/29/2025,CSCO,Cisco Systems Inc,Technology,4.35%,$65.00 ,$80.00 
+8/4/2025,NVDA,NVIDIA Corporation,Information Technology,4.35%,$900.00 ,"$1,350.00 "
+8/4/2025,AAPL,Apple Inc.,Information Technology,4.35%,$180.00 ,$270.00 
+8/4/2025,MSFT,Microsoft Corporation,Information Technology,4.35%,$350.00 ,$525.00 
+8/4/2025,AMZN,Amazon.com Inc.,Consumer Discretionary,4.35%,$130.00 ,$195.00 
+8/4/2025,AMD,Advanced Micro Devices Inc.,Information Technology,4.35%,$200.00 ,$300.00 
+8/4/2025,META,Meta Platforms Inc.,Communication Services,4.35%,$200.00 ,$300.00 
+8/4/2025,ADBE,Adobe Inc.,Information Technology,4.35%,$600.00 ,$900.00 
+8/4/2025,CRM,Salesforce Inc.,Information Technology,4.35%,$240.00 ,$360.00 
+8/4/2025,CRWD,CrowdStrike Holdings Inc.,Information Technology,4.35%,$200.00 ,$400.00 
+8/4/2025,UNH,UnitedHealth Group Inc.,Healthcare,4.35%,$500.00 ,$750.00 
+8/4/2025,NEE,NextEra Energy Inc.,Utilities,4.35%,$100.00 ,$150.00 
+8/4/2025,V,Visa Inc.,Financials,4.35%,$240.00 ,$360.00 
+8/4/2025,MA,Mastercard Incorporated,Financials,4.35%,$400.00 ,$600.00 
+8/4/2025,QCOM,Qualcomm Inc.,Information Technology,4.35%,$170.00 ,$255.00 
+8/4/2025,FTNT,Fortinet Inc.,Information Technology,4.35%,$250.00 ,$375.00 
+8/4/2025,SMTC,Semtech Corporation,Information Technology,4.35%,$75.00 ,$112.50 
+8/4/2025,ENPH,Enphase Energy Inc.,Energy,4.35%,$300.00 ,$450.00 
+8/4/2025,NEO,NeoGenomics Inc.,Healthcare,4.35%,$25.00 ,$37.50 
+8/4/2025,MTCH,Match Group Inc.,Communication Services,4.35%,$50.00 ,$75.00 
+8/4/2025,PLNT,Planet Fitness Inc.,Consumer Discretionary,4.35%,$80.00 ,$120.00 
+8/4/2025,SPLK,Splunk Inc.,Information Technology,4.35%,$185.00 ,$277.50 
+8/4/2025,STX,Seagate Technology Holdings PLC,Information Technology,4.35%,$50.00 ,$75.00 
+8/4/2025,DDOG,Datadog Inc.,Information Technology,4.35%,$80.00 ,$120.00 
+8/4/2025,AAPL,Apple Inc.,Tech,4.35%,$250.00 ,$300.00 
+8/4/2025,MSFT,Microsoft Corp.,Tech,4.35%,$350.00 ,$420.00 
+8/4/2025,NVDA,NVIDIA Corp.,Tech,4.35%,$600.00 ,$720.00 
+8/4/2025,AMZN,Amazon.com Inc.,Consumer Discretionary,4.35%,$180.00 ,$216.00 
+8/4/2025,META,Meta Platforms Inc.,Tech,4.35%,$500.00 ,$600.00 
+8/4/2025,GOOGL,Alphabet Inc.,Tech,4.35%,$150.00 ,$180.00 
+8/4/2025,TSLA,Tesla Inc.,Consumer Discretionary,4.35%,$900.00 ,"$1,080.00 "
+8/4/2025,ADBE,Adobe Inc.,Tech,4.35%,$600.00 ,$720.00 
+8/4/2025,CRM,Salesforce Inc.,Tech,4.35%,$250.00 ,$300.00 
+8/4/2025,CRWD,CrowdStrike Holdings,Tech,4.35%,$300.00 ,$360.00 
+8/4/2025,DDOG,Datadog Inc.,Tech,4.35%,$100.00 ,$120.00 
+8/4/2025,SNOW,Snowflake Inc.,Tech,4.35%,$200.00 ,$240.00 
+8/4/2025,SPLK,Splunk Inc.,Tech,4.35%,$150.00 ,$180.00 
+8/4/2025,NOW,ServiceNow Inc.,Tech,4.35%,$600.00 ,$720.00 
+8/4/2025,WDAY,Workday Inc.,Tech,4.35%,$250.00 ,$300.00 
+8/4/2025,INTU,Intuit Inc.,Tech,4.35%,$600.00 ,$720.00 
+8/4/2025,ZM,Zoom Video Communications,Tech,4.35%,$150.00 ,$180.00 
+8/4/2025,SHOP,Shopify Inc.,Tech,4.35%,$100.00 ,$120.00 
+8/4/2025,UNH,UnitedHealth Group,Healthcare,4.35%,$600.00 ,$720.00 
+8/4/2025,ILMN,Illumina Inc.,Healthcare,4.35%,$500.00 ,$600.00 
+8/4/2025,MRNA,Moderna Inc.,Healthcare,4.35%,$200.00 ,$240.00 
+8/4/2025,VRTX,Vertex Pharmaceuticals,Healthcare,4.35%,$300.00 ,$360.00 
+8/4/2025,SGEN,Seagen Inc.,Healthcare,4.35%,$200.00 ,$240.00 
